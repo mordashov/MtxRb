@@ -1,0 +1,7 @@
+C:\Users\Vitalik\source\repos\mtx\mtx\bin\Debug\mtx.exe.config
+C:\Users\Vitalik\source\repos\mtx\mtx\bin\Debug\mtx.exe
+C:\Users\Vitalik\source\repos\mtx\mtx\bin\Debug\mtx.pdb
+C:\Users\Vitalik\source\repos\mtx\mtx\obj\Debug\mtx.csprojAssemblyReference.cache
+C:\Users\Vitalik\source\repos\mtx\mtx\obj\Debug\mtx.csproj.CoreCompileInputs.cache
+C:\Users\Vitalik\source\repos\mtx\mtx\obj\Debug\mtx.exe
+C:\Users\Vitalik\source\repos\mtx\mtx\obj\Debug\mtx.pdb
