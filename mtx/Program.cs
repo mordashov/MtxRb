@@ -69,7 +69,7 @@ namespace mtx
 
                 foreach (var role in roles)
                 {
-                    string roleTrim = role.Replace(" ", string.Empty);
+                    string roleTrim = role.Trim();
 
                     command = new OleDbCommand(
                         $@"INSERT INTO EksvspNew ( 
@@ -93,7 +93,7 @@ namespace mtx
                         , Eksvsp.ЛОГИН
                         , Eksvsp.СТАТУС
                         , Eksvsp.tn
-                        , "" {roleTrim} "" 
+                        , ""{roleTrim}"" 
                         FROM Eksvsp 
                         WHERE Код = {id}", connection);
 
